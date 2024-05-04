@@ -1,0 +1,30 @@
+{
+  "name": "chefmedia",
+  "version": "1.0.0",
+  "description": "Cooking themed Social Media Application for TriDev Spring 2022",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbinlee3/ChefMedia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbinlee3/ChefMedia/issues"
+  },
+  "homepage": "https://github.com/dbinlee3/ChefMedia#readme",
+  "dependencies": {
+    "apollo-server": "^3.6.7",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^16.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

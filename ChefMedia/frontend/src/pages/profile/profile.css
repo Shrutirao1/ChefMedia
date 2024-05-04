@@ -1,0 +1,117 @@
+.profileContainer {
+
+    width: 100%;
+    height: 100vh;
+<<<<<<< HEAD
+    background-color: rgba(255, 255, 255, 0.925);
+=======
+    background-color: rgb(232, 232, 232);
+>>>>>>> 5c05368d2a3c936093255290a3cf4b656d626f13
+
+}
+
+.profileLeft {
+    position: relative;
+    top: 25px;
+    left: 60px;
+    text-align: center;
+    height: 100%;
+    width: 40%;
+<<<<<<< HEAD
+
+    -webkit-box-shadow: 0px 0px 23px -8px rgba(0, 0, 0, 0.68);
+    box-shadow: 0px 0px 23px -8px rgba(0, 0, 0, 0.68);
+
+    background-color: white;
+    border-radius: 30px;
+
+    
+
+
+
+}
+
+.profileContent{
+
+    padding: 30px;
+
+}
+
+.username{
+   
+    font-size: 35px;
+
+
+}
+
+.profilePic {
+
+=======
+    
+    background-color: white;
+    border-radius: 30px;
+
+    -webkit-box-shadow: 0px 0px 23px -8px rgba(0, 0, 0, 0.68);
+    box-shadow: 0px 0px 23px -8px rgba(0, 0, 0, 0.68);
+}
+
+.profileContent {
+    padding: 30px;
+}
+
+.username {
+    font-size: 35px;
+
+}
+
+.profilePic {
+>>>>>>> 5c05368d2a3c936093255290a3cf4b656d626f13
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    object-fit: cover;
+<<<<<<< HEAD
+    box-shadow: 6px 6px rgba(0, 0, 0, 0.625);
+
+=======
+
+    box-shadow: 6px 6px rgba(0, 0, 0, 0.625);
+>>>>>>> 5c05368d2a3c936093255290a3cf4b656d626f13
+
+}
+
+.bioBox {
+
+    text-align: left;
+
+}
+<<<<<<< HEAD
+    
+
+.bioList {
+    list-style: none;
+
+
+}
+=======
+
+.bioList {
+
+    list-style: none;
+
+}
+
+>>>>>>> 5c05368d2a3c936093255290a3cf4b656d626f13
+.bioEntry {
+    padding: 5px;
+    font-size: 25px;
+    font-weight: bold;
+
+<<<<<<< HEAD
+=======
+}
+
+.profileRight {
+    
+>>>>>>> 5c05368d2a3c936093255290a3cf4b656d626f13
+}
